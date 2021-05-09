@@ -1,0 +1,1 @@
+A small application showing how to read multiple entity types from different Elasticsearch indices in a single call.
