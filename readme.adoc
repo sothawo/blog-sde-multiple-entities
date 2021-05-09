@@ -1,1 +1,3 @@
 A small application showing how to read multiple entity types from different Elasticsearch indices in a single call.
+
+Blogpost: https://www.sothawo.com/2021/05/reading-different-entities-from-multiple-indices-with-one-call-using-spring-data-elasticsearch/
