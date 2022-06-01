@@ -24,7 +24,6 @@ public class RestClientConfig extends AbstractElasticsearchConfiguration {
 
         ClientConfiguration clientConfiguration = ClientConfiguration.builder() //
             .connectedTo("localhost:9200") //
-            .withProxy("localhost:8080")
             .build();
 
         return RestClients.create(clientConfiguration).rest();
